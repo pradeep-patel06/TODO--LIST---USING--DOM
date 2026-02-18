@@ -13,7 +13,3 @@ Data stored in browser(using localStorage)
 - CSS
 - JavaScript(DOM)
 
-## Author
-**pradeep Patel**
-Full Stack Developer 
-[GitHub](https://github.com/pradeep-patel06)
