@@ -3,7 +3,7 @@ A simple and interactive Todo List project build using **HTML,CSS and Javascript
 Users can add,delete,and mark tasks as completed
 
 ## 🚀 Live Demo
-👉 todo-list-using-dom.vercel.app
+👉• Live: https://todo-list-using-dom.vercel.app 
 
 
 #  Features
